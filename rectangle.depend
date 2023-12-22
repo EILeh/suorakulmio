@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1703173439 source:c:\users\elli\documents\yliopisto\2. vuosi\2023-2024\1.-2. periodi\ohjelmoinnin tekniikka c\tentti\rectangle\main.c
+	<stdio.h>
+	<stdlib.h>
+	"rectangle.h"
+
+1703173342 source:c:\users\elli\documents\yliopisto\2. vuosi\2023-2024\1.-2. periodi\ohjelmoinnin tekniikka c\tentti\rectangle\rectangle.c
+	<stdio.h>
+	<stdlib.h>
+	"rectangle.h"
+
+1703172891 c:\users\elli\documents\yliopisto\2. vuosi\2023-2024\1.-2. periodi\ohjelmoinnin tekniikka c\tentti\rectangle\rectangle.h
+
